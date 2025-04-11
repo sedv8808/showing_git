@@ -1,1 +1,3 @@
-# showing_git
+# Teaching in LHL how to use Git
+
+This repository ...
